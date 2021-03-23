@@ -6,6 +6,6 @@ Este proyecto utiliza:
 - CSS
 - JavaScript *Vanilla*
 
-Si desea ver la documentación completa siga este [enlace](https://www.google.es/).
+Este es el punto de partida y maquetación inicial de una aplicación más compleja que se encuentra en desarrollo.
 
 `With 💚 by JMRBDev`
